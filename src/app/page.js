@@ -7,7 +7,7 @@ import axios from 'axios';
 import React, { useState , useRef} from 'react';
 
 
-const endpoint = "http://localhost";
+const endpoint = "http://smartmedibox.skyli.xyz";
 
 
 
